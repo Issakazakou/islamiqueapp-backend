@@ -1,0 +1,43 @@
+{
+    "quizDone": 1,
+    "questions": 2,
+    "correct": 1,
+    "streak": 1,
+    "bestStreak": 1,
+    "lastPlay": "2026-10-18",
+    "badges": [
+        "first_quiz"
+    ],
+    "categories": {
+        "coran_mediter": {
+            "done": 1,
+            "correct": 1,
+            "total": 2
+        },
+        "coran_tajwid": {
+            "done": 0,
+            "correct": 0,
+            "total": 0
+        },
+        "coran_culture": {
+            "done": 0,
+            "correct": 0,
+            "total": 0
+        },
+        "hadith": {
+            "done": 0,
+            "correct": 0,
+            "total": 0
+        },
+        "fiqh": {
+            "done": 0,
+            "correct": 0,
+            "total": 0
+        },
+        "sira": {
+            "done": 0,
+            "correct": 0,
+            "total": 0
+        }
+    }
+}
